@@ -1,0 +1,26 @@
+html,
+body,
+#game-container {
+  margin: 0;
+  padding: 0;
+}
+
+#game-container {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game-container>canvas {
+  border-radius: 5px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000; /* Makes the page background black */
+  height: 100%;
+  width: 100%;
+}
