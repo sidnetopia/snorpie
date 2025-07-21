@@ -98,7 +98,7 @@ And from there, our conversations became even deeper—beyond just relationships
   { 
     x: 22, 
     y: 9, 
-    message: "Listing the things you like:\n- Color: Pink\n- Ulam: Pork sinigang, salmon belly\n- Tea: Matcha\n- Anime: Tokyo Revengers, Haikyuu\n- Pasta: Pesto\n- Snack: Matcha\n- Go-to food: Army Navy burger, pizza, puto bumbong\n- Favorite restaurants: Manam, Yabu, Siklab, and coffee shops in Angono, Rizal\n- Accessories: Necklaces and pendants\n- Go-to song: I'm Fine Thank You — https://open.spotify.com/track/1J6tDbBnb2RZsiRprp3jQq?si=f010dfd15d734a18\n- Artists: LANY, Dionela, Adie, Taylor Swift, LADIES' CODE\n\nIn case you’ve forgotten how much you really mean to me, let me remind you through all these little things—and through the small glass buildings we’re building together."
+    message: "Listing the things you like:\n- Color: Pink\n- Ulam: Pork sinigang, salmon belly\n- Tea: Matcha\n- Anime: Tokyo Revengers, Haikyuu\n- Pasta: Pesto\n- Snack: Matcha\n- Go-to food: Army Navy burger, pizza, puto bumbong, balot, etc. \n- Favorite restaurants: Manam, Yabu, Siklab, and coffee shops in Angono, Rizal\n- Accessories: Necklaces and pendants\n- Go-to song: I'm Fine Thank You — https://open.spotify.com/track/1J6tDbBnb2RZsiRprp3jQq?si=f010dfd15d734a18\n- Artists: LANY, Dionela, Adie, Taylor Swift, LADIES' CODE\n\nIn case you’ve forgotten how much you really mean to me, let me remind you through all these little things—and through the small glass buildings we’re building together."
   },
   { 
     x: 6, 
