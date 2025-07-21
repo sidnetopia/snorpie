@@ -73,7 +73,7 @@ And from there, our conversations became even deeper—beyond just relationships
   { 
     x: 21, 
     y: 26, 
-    message: "I reserved this slot because I know how much you love anything related to the medical field—like how you used to be intrigued by your aunts’ medical books. I also admire how you chose to pursue optometry over medtech, and how your heart is so close to the elderly, especially with your desire to specialize in their care.\n\nWhen I got home, you felt like my personal doctor—always checking up on me. I’ll never forget what you said: \"Alagaan mo muna sarili mo kasi wala pa ako sa tabi mo para gawin 'yan.\" That really stayed with me."
+    message: "I reserved this slot because I know how much you love anything related to the medical field—like how you used to be intrigued by your aunts’ medical books. I also admire how you chose to pursue optometry over medtech, and how your heart is so close to the elderly, especially with your desire to specialize in their care.\n\nWhen I got home, you felt like my personal doctor—always checking up on me. I’ll never forget what you said: \"Alagaan mo muna sarili mo kasi wala pa ako sa tabi mo para gawin 'yan.\" That really stayed with me. I also want to include that you have seasonal rhinitis and allergies on fur and almonds."
   },
   { 
     x: 30, 
@@ -98,7 +98,7 @@ And from there, our conversations became even deeper—beyond just relationships
   { 
     x: 22, 
     y: 9, 
-    message: "Listing the things you like:\n- Color: Pink\n- Ulam: Pork sinigang, salmon belly\n- Tea: Matcha\n- Anime: Tokyo Revengers, Haikyuu\n- Pasta: Pesto\n- Snack: Matcha\n- Go-to food: Army Navy burger, pizza, puto bumbong\n- Favorite restaurants: Manam, Yabu, Siklab, and coffee shops in Angono, Rizal\n- Accessories: Necklaces and pendants\n- Go-to song: I'm Fine Thank You — https://open.spotify.com/track/1J6tDbBnb2RZsiRprp3jQq?si=f010dfd15d734a18\n- Artists: LANY, Dionela, Adie, Taylor Swift, LADIES' CODE\n\nIn case you’ve forgotten how much you really mean to me, let me remind you through all these little things—and through the small glass buildings we’re building together."
+    message: "Listing the things you like:\n- Color: Pink\n- Ulam: Pork sinigang, salmon belly\n- Tea: Matcha\n- Anime: Tokyo Revengers, Haikyuu\n- Pasta: Pesto\n- Snack: Matcha\n- Go-to food: Army Navy burger, pizza, puto bumbong, balut, betamax, etc.\n- Favorite restaurants: Manam, Yabu, Siklab, and coffee shops in Angono, Rizal\n- Accessories: Necklaces and pendants\n- Go-to song: I'm Fine Thank You — https://open.spotify.com/track/1J6tDbBnb2RZsiRprp3jQq?si=f010dfd15d734a18\n- Artists: LANY, Dionela, Adie, Taylor Swift, LADIES' CODE\n\nIn case you’ve forgotten how much you really mean to me, let me remind you through all these little things—and through the small glass buildings we’re building together."
   },
   { 
     x: 6, 
