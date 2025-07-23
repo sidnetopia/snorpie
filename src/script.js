@@ -98,7 +98,7 @@ And from there, our conversations became even deeper—beyond just relationships
   { 
     x: 22, 
     y: 9, 
-    message: "Listing the things you like:\n- Color: Pink\n- Ulam: Pork sinigang, salmon belly\n- Tea: Matcha\n- Anime: Tokyo Revengers, Haikyuu\n- Pasta: Pesto\n- Snack: Matcha\n- Go-to food: Army Navy burger, pizza, puto bumbong, balut, betamax, etc.\n- Favorite restaurants: Manam, Yabu, Siklab, and coffee shops in Angono, Rizal\n- Accessories: Necklaces and pendants\n- Go-to song: I'm Fine Thank You — https://open.spotify.com/track/1J6tDbBnb2RZsiRprp3jQq?si=f010dfd15d734a18\n- Artists: LANY, Dionela, Adie, Taylor Swift, LADIES' CODE\n\nIn case you’ve forgotten how much you really mean to me, let me remind you through all these little things—and through the small glass buildings we’re building together."
+    message: "Listing the things you like:\n- Color: Pink\n- Ulam: Pork sinigang, salmon belly\n- Tea: Matcha\n- Anime: Tokyo Revengers, Haikyuu\n- Pasta: Pesto\n- Snack: Matcha\n- Go-to food: Army Navy burger, pizza, puto bumbong, balut, betamax, etc.\n- Favorite restaurants: Manam, Yabu, Siklab, and coffee shops in Angono, Rizal\n- Accessories: Necklaces and pendants\n- Go-to song: I'm Fine Thank You — https://open.spotify.com/track/1J6tDbBnb2RZsiRprp3jQq?si=f010dfd15d734a18\n- Artists: LANY, Dionela, Adie, TJ Monterde, Taylor Swift, LADIES' CODE\n\nIn case you’ve forgotten how much you really mean to me, let me remind you through all these little things—and through the small glass buildings we’re building together."
   },
   { 
     x: 6, 
@@ -140,6 +140,7 @@ And from there, our conversations became even deeper—beyond just relationships
     //  https://labs.phaser.io/view.html?src=src/animation/single%20sprite%20sheet.js
     this.load.atlas("atlas", "https://raw.githubusercontent.com/sidnetopia/phaser-3-tilemap-blog-posts/master/examples/post-1/assets/atlas/atlas-new2.png", "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.json");
     this.load.bitmapFont("pixelFont", "https://examples.phaser.io/assets/fonts/bitmap/desyrel.png", "https://examples.phaser.io/assets/fonts/bitmap/desyrel.xml");
+    this.load.audio("bgm", "https://raw.githubusercontent.com/sidnetopia/snorpie/main/music.mp3");
   }
 
   function create() {
@@ -256,6 +257,12 @@ And from there, our conversations became even deeper—beyond just relationships
       
       targetTile = { x: tileX, y: tileY };
     });
+
+    const music = this.sound.add("bgm", {
+      loop: true,
+      volume: 0.5 // Adjust volume as needed
+    });
+    music.play();
   }
 
   function update(time, delta) {
