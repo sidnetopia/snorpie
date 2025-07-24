@@ -139,7 +139,7 @@ And from there, our conversations became even deeper—beyond just relationships
     // If you don't use an atlas, you can do the same thing with a spritesheet, see:
     //  https://labs.phaser.io/view.html?src=src/animation/single%20sprite%20sheet.js
     this.load.atlas("atlas", "https://raw.githubusercontent.com/sidnetopia/phaser-3-tilemap-blog-posts/master/examples/post-1/assets/atlas/atlas-new2.png", "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.json");
-    this.load.bitmapFont("pixelFont", "https://examples.phaser.io/assets/fonts/bitmap/desyrel.png", "https://examples.phaser.io/assets/fonts/bitmap/desyrel.xml");
+    // this.load.bitmapFont("pixelFont", "https://examples.phaser.io/assets/fonts/bitmap/desyrel.png", "https://examples.phaser.io/assets/fonts/bitmap/desyrel.xml");
     this.load.audio("bgm", "https://raw.githubusercontent.com/sidnetopia/snorpie/main/music.mp3");
   }
 
